@@ -1,3 +1,9 @@
 .table-hover{
   background-color: pink;
 }
+h2{
+  color:pink;
+}
+a{
+  cursor: pointer;
+}
